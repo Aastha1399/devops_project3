@@ -1,0 +1,8 @@
+Aastha Jain / Cloud devops project 3- Jenkins pipeline on aws
+
+
+
+Link to GitHub repo: https://github.com/Aastha1399/devops_project3.git
+
+Screenshots included in the repo as well as the zip file 
+
